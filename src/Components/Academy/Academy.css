@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.academy {
+    width: 100%;
+}
+.academy-title {
+    margin-left: 500px;
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    color: #333333;
+}
+.divs-academy {
+    display: flex;
+    margin-top: 63px;
+    margin-left: 200px;
+    gap: 100px;
+}
+.academy-ellipse {
+    width: 164px;
+    height: 164px;
+}
+.academy-image {
+    width: 103px;
+    height: 103px;
+    margin-left: -135px;
+    margin-bottom: 30px;
+}
+span {
+    color: #4B9895;
+    font-weight: 600;
+}
+.circle-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    align-items: center;
+    width: 250px;
+    margin-top: 20px;
+    color: #333333;
+}
+.suitcase {
+    margin-top: 70px;
+}
+.suitcase-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    align-items: center;
+    width: 290px;
+    margin-top: 20px;
+    color: #333333;
+}
+.rocket-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    align-items: center;
+    width: 290px;
+    margin-top: 20px;
+    color: #333333;
+}
+.arrow-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    align-items: center;
+    width: 290px;
+    margin-top: 20px;
+    color: #333333;
+}
+.arrow {
+    margin-top: 70px;
+}
+.money-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    align-items: center;
+    width: 290px;
+    margin-top: 20px;
+    color: #333333;
+}
+.key-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    align-items: center;
+    width: 290px;
+    margin-top: 20px;
+    color: #333333;
+}
+.key {
+    margin-top: 50px;
+}
+.academy-btn {
+    width: 335px;
+    height: 78px;
+    border-radius: 59px;
+    background-color: #5FACA9;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+.academy-btn:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #5FACA9;
+    border: 3px solid #5FACA9;
+}

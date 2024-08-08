@@ -16,14 +16,14 @@ ul {
     width: 200px;
     height: 100px;
     margin-left: 50px;
-    margin-top: -325px;
+    margin-top: 20px;
 }
 .nav-logo:hover{
     cursor: pointer;
 }
 .nav-title {
     margin-left: 30px;
-    margin-top: -300px;
+    margin-top:  45px;
     width: 170px;
     font-weight: 400;
     font-size: 16px;
@@ -32,8 +32,8 @@ ul {
 .nav-item {
     display: flex;
     gap: 30px;
-    margin-left: 50px;
-    margin-top: -280px;
+    margin-left: 70px;
+    margin-top: 60px;
 }
 .nav-list {
     font-family: sans-serif;
@@ -46,8 +46,8 @@ ul {
     color: blue;
 }
 .nav-phone {
-    margin-left: 120px;
-    margin-top: -300px;
+    margin-left: 150px;
+    margin-top: 40px;
 }
 .nav-phone:hover {
     cursor: pointer;
