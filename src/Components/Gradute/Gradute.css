@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gradute {
+    width: 100%;
+}
+.gradute-title {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    color: #333333;
+    width: 800px;
+    margin-left: 350px;
+    margin-top: 167px;
+}
+.gradute-divs {
+    display: flex;
+}
+.gradute-text {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    width: 421px;
+    margin-left: 170px;
+    margin-top: 63px;
+}
+.gradute-text2 {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #444444;
+    width: 275px;
+    margin-left: 170px;
+    margin-top: 60px;
+}
+.gradute-btn {
+    width: 316px;
+    height: 78px;
+    border-radius: 56px;
+    background-color: #4e9290;
+    margin-left: 170px;
+    margin-top: 22px;
+    color: #FFFFFF;
+    font-size: 17px;
+    font-weight: 600;
+}
+.gradute-btn:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #4e9290;
+    border: 3px solid #4e9290;
+}
